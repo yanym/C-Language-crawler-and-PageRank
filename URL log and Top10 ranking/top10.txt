@@ -1,0 +1,10 @@
+http://news.qq.com/ 0.000788971
+http://news.qq.com/photo.shtml 0.000322991
+http://news.qq.com/society_index.shtml 0.000154263
+http://news.qq.com/original/oneday/cod3114.html 0.000154098
+http://news.qq.com/world_index.shtml 0.000124197
+http://news.qq.com/china_index.shtml 0.000091893
+http://news.qq.com/zt/2008/jianyan/ 0.000075072
+http://news.qq.com/newspedia/all.htm 0.000072209
+http://news.qq.com/topic/feature.htm 0.000071703
+http://news.qq.com/zt2011/oneday/index.htm 0.000071603
